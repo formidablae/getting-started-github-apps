@@ -74,37 +74,37 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Boardgame
 
-* [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS. [Play it now!](http://codepen.io/juliangarnier/full/BsIih)
-* [c4](https://github.com/kenrick95/c4) - Connect Four game, with AI, in HTML/CSS/JS. [Play it now!](https://kenrick95.github.io/c4/demo/)
-* [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
-* [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
-* [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
-* [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
+- [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS. [Play it now!](http://codepen.io/juliangarnier/full/BsIih)
+- [c4](https://github.com/kenrick95/c4) - Connect Four game, with AI, in HTML/CSS/JS. [Play it now!](https://kenrick95.github.io/c4/demo/)
+- [Desperate Gods](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
+- [Green Mahjong](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
+- [Kriegspiel](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant.
+- [Lichess](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
 
 
 ## Arcade
 
-* [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
-* [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development. [Play it now!](http://cykod.github.io/AlienInvasion/)
-* [Arashi](https://github.com/stephank/arashi-js) - Arashi is a clone of the Arcade game Tempest. [Play it now!](http://stephank.github.io/arashi-js/)
-* [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
-* [Avabranch](https://github.com/Zolmeister/avabranch) - GitHub Game Off 2012 entry. [Play it now!](http://avabranch.zolmeister.com/)
-* [Ball And Wall](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game. [Play it now!](http://ballandwall.com/)
-* [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5.
-* [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
-* [Cell Mates](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
-* [Ceros Snake](https://github.com/mjhasbach/ceros-snake) - A remake of the iconic 70's Snake game.
-* [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers. [Play it now!](http://change-game.herokuapp.com/)
-* [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
-* [Circus Charlie](https://github.com/eugenioclrc/circushtml5) - HTML5 tribute created in Phaser.
-* [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
-* [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJS. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
-* [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - Simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
-* [Coffee Snake](https://github.com/dommmel/coffee-snake) - HTML5 snake game written in CoffeeScript. [Play it now!](http://dommmel.github.com/coffee-snake/)
-* [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play it now!](http://hakim.se/experiments/html5/coil/)
-* [Color Quest](https://github.com/redbluegames/game-off-2013) - Infinite runner following a black and white pixel's quest to change into a color pixel. [Play it now!](http://redbluegames.com/game-off-2013/)
-* [Core Commiter](https://github.com/vladikoff/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://committer.meteor.com/)
-* [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy Bird clone in JavaScript and Canvas2D API.
+- [Alge's Escapade](https://github.com/Dave-and-Mike/game-off-2012) - HTML5, JavaScript, GameJs arcade game where you control an Algae. [Play it now!](http://dave-and-mike.github.io/game-off-2012/)
+- [Alien Invasion](https://github.com/cykod/AlienInvasion) - Demo Game for Mobile HTML5 Game Development. [Play it now!](http://cykod.github.io/AlienInvasion/)
+- [Arashi](https://github.com/stephank/arashi-js) - Arashi is a clone of the Arcade game Tempest. [Play it now!](http://stephank.github.io/arashi-js/)
+- [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) - Pure JavaScript asteroids. [Play it now!](http://dougmcinnes.com/html-5-asteroids/)
+- [Avabranch](https://github.com/Zolmeister/avabranch) - GitHub Game Off 2012 entry. [Play it now!](http://avabranch.zolmeister.com/)
+- [Ball And Wall](https://github.com/budnix/ball-and-wall) - Pure JavaScript arkanoid style game. [Play it now!](http://ballandwall.com/)
+- [Breakout](https://github.com/Couchfriends/breakout) - Breakout multiplayer with HTML5.
+- [Captain Rogers](https://github.com/EnclaveGames/Captain-Rogers) - Captain Rogers: Asteroid Belt of Sirius - HTML5 mobile game created using ImpactJS. [Play it now!](http://enclavegames.com/games/captain-rogers/)
+- [Cell Mates](https://github.com/gamebytes/cellmates) - Game made in 48 hours for the 2013 Global Game Jam.
+- [Ceros Snake](https://github.com/mjhasbach/ceros-snake) - A remake of the iconic 70's Snake game.
+- [CHANG€](https://github.com/RothschildGames/change) - Intense game about the extreme life of supermarket cashiers. [Play it now!](http://change-game.herokuapp.com/)
+- [Chromacore](https://github.com/Murkantilism/game-off-2013) - 2D musical platformer set in a dark, black & white world that progressively becomes more colorful and happy through successful gameplay.
+- [Circus Charlie](https://github.com/eugenioclrc/circushtml5) - HTML5 tribute created in Phaser.
+- [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) - Made in Phaser. [Play it now!](http://shohan4556.github.io/jolly-jumper/)
+- [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) - Flappy Bird clone in JavaScript using MelonJS. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
+- [Codename Lumberjack](https://github.com/arkeus/Codename-Lumberjack) - Simple flash game written using Actionscript 3.0 and Flixel. [Play it now!](http://projects.iarke.us/codenamelumberjack/)
+- [Coffee Snake](https://github.com/dommmel/coffee-snake) - HTML5 snake game written in CoffeeScript. [Play it now!](http://dommmel.github.com/coffee-snake/)
+- [Coil](https://github.com/leereilly/Coil) - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail. [Play it now!](http://hakim.se/experiments/html5/coil/)
+- [Color Quest](https://github.com/redbluegames/game-off-2013) - Infinite runner following a black and white pixel's quest to change into a color pixel. [Play it now!](http://redbluegames.com/game-off-2013/)
+- [Core Commiter](https://github.com/vladikoff/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://committer.meteor.com/)
+- [Crappy Bird](https://github.com/varunpant/CrappyBird) - Flappy Bird clone in JavaScript and Canvas2D API.
 * [Custom Tetris](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it. [Play it now!](http://ondras.github.io/custom-tetris/)
 * [d3shooter](https://github.com/nsmirn0v/d3shooter) - Asteroids style game in HTML5 as a demo of the d3 library. [Play it now!](http://d3shooter.herokuapp.com)
 * [Digger](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game.
